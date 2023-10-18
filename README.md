@@ -1,11 +1,16 @@
 # NewsMaster
 ![image](https://github.com/anupam-singh88/newsmaster/assets/89381022/7554dca9-aba7-4fe6-b2b1-9b01fdecc45b)
 
+https://github.com/anupam-singh88/newsmaster/assets/89381022/08bb39db-4e68-4ee1-979a-b8a2f568cdf2
 
 ## Description
 NewsMaster is a real-time news website built with React.js. It fetches data from the News API according to different categories of news provided. The website displays all the news and includes features like a top loading bar, spinner, and infinite loader for an enhanced user experience.
 
 ## Technologies Used
+
+
+
+
 - HTML
 - CSS
 - JavaScript
